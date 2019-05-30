@@ -486,8 +486,6 @@ def _get_nccl_dtype(dtype):
         return nccl.NCCL_FLOAT32
     elif dtype == np.float64:
         return nccl.NCCL_FLOAT64
-    elif dtype == np.uint64:
-        return 9  # PackedFloat21
     else:
         raise ValueError(
             'dtype must be numpy.float16, numpy.float32 or numpy.float64,'
