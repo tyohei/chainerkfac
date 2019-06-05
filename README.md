@@ -60,7 +60,7 @@ $ mpirun -np 4 python train.py \
 --config <path/to/config_file>
 ```
 ## Training ResNet-50 on ImageNet with large mini-batch
-- New results with *ResNet-50-D* architecture from [Bag of Tricks for Image Classification with Convolutional Neural Networks, Tong He+, 2018](https://arxiv.org/abs/1812.01187).
+- Our new results with *ResNet-50-D* architecture from [Bag of Tricks for Image Classification with Convolutional Neural Networks, Tong He+, 2018](https://arxiv.org/abs/1812.01187).
 - (pure *ResNet-50* was used in [our paper](https://arxiv.org/abs/1811.12019).)
 - Top-1 validation accuracy for ImageNet (1,000 class) classification:
 
