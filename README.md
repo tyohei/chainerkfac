@@ -9,6 +9,7 @@ Large-Scale Distributed Second-Order Optimization Using Kronecker-Factored Appro
 CVPR, 2019.
 ```
 paper: https://arxiv.org/abs/1811.12019
+[[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Osawa_Large-Scale_Distributed_Second-Order_Optimization_Using_Kronecker-Factored_Approximate_Curvature_for_Deep_CVPR_2019_paper.pdf)]
 
 ## Installation
 - Supported Python Versions: Python 3.6+
